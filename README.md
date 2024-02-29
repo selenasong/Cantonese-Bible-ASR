@@ -1,4 +1,4 @@
-### Cantonese Bible Speech-To-Text System
+# Cantonese Bible Speech-To-Text System
 
 ## Abstract 
 Downloaded audio clips and scraped transcription from an online multilingual Bible corpus. 

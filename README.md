@@ -2,11 +2,8 @@
 
 ## Abstract 
 Downloaded audio clips and scraped transcription from an online multilingual Bible corpus. 
-
 Created a 14-hour dataset by force alignment with SpeechBrain and segmentation to clips of 1 to 5 seconds. 
-
 Fine-tuned on a pretrained Cantonese wav2vec model on Hugging Face with the self-created dataset. 
-
 Character error rate on the same test set decreased from 0.48 to 0.28 after fine-tuning. 
 
 ## Purpose of the project 

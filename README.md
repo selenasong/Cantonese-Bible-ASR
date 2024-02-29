@@ -16,7 +16,7 @@ Dev data: 1769 pairs (1h 30min)
 
 Test data: 1995 pairs (1h 30min)
 
-We used the Bible New Testament Cantonese dataset we created in Assessment 1, as the training data is of good recording quality, and it is large enough to fine tune a model (14.5 hours) without overfitting. Recordings in the training data and their transcriptions were downloaded from bible.is, while dev and test data are from another website (https://www.wordproject.org/bibles/audio/13_cantonese/index.htm) to avoid speaker overlapping. 
+We used the Bible New Testament Cantonese dataset we created in Assessment 1, as the training data is of good recording quality, and it is large enough to fine tune a model (14.5 hours) without overfitting. Recordings in the training data and their transcriptions were downloaded from bible.is (https://www.faithcomesbyhearing.com/audio-bible-resources/bible-is), while dev and test data are from another website (https://www.wordproject.org/bibles/audio/13_cantonese/index.htm) to avoid speaker overlapping. 
 
 
 ## FineTuning Details 
